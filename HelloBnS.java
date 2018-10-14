@@ -14,6 +14,6 @@ public class HelloBnS{
 			System.out.println("Hello World I am " + name);
 			count++;
 		}
-		System.out.print(count);
+		System.out.print("Total " + count + " Students");
 	}
 }
