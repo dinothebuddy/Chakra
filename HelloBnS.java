@@ -8,9 +8,11 @@ public class HelloBnS{
 		FileReader fr = new FileReader("name.txt");
 		Scanner sc = new Scanner(fr);
 		String name;
+		int count = 0;
 		while(sc.hasNextLine()){
 			name = sc.nextLine();
 			System.out.println("Hello World I am " + name);
+			count++;
 		}
 	}
 }
