@@ -13,7 +13,7 @@ public class HelloBnS{
 			name = sc.nextLine();
 			System.out.println("Hello World I am " + name);
 			count++;
-			System.out.print(count);
 		}
+		System.out.print(count);
 	}
 }
