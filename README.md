@@ -1,2 +1,2 @@
-# Chakra
+# Project
 Smoothie
